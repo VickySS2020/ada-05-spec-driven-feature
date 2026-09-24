@@ -1,7 +1,7 @@
 # Agent Report
 
 ## Agent / Version
-Antigravity CLI
+Antigravity CLI / Gemini 3.8 Flash (High)
 
 ## Initial Context
 
