@@ -4,6 +4,7 @@
 Antigravity CLI / Gemini 3.8 Flash (High)
 
 ## Initial Context
+The repository initially had the documents REQUIREMENTS.md, SPEC.md, ARQUITECTURE.md, TASKS.md, AGENTS.md and empty documents like tracebility.md, agent-report.md and README.md so that the agent had the necessary context to implement the feature and fill in the project documentation. It also had empty folders /src and /test so that the agent could fill them with python code and automated tests.
 
 ## Task Sequence
 
