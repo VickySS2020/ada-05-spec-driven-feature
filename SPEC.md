@@ -11,6 +11,7 @@ Provide a simple CLI tool to search customer records by name or email with case-
 - FR-05
 - FR-06
 - FR-07
+- FR-08
 - NFR-01
 - NFR-02
 - NFR-03

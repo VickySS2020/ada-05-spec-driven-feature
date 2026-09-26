@@ -13,6 +13,7 @@ FR-04: Display Results — The CLI must display all matching customer records in
 FR-05: No Matches Handling — When no customer records match the given query, the CLI must output an informative message ("MESSAGE: No customers found that matched <query>").
 FR-06: CLI Options — The CLI must support standard command-line flags/arguments (e.g., `--name`, `--email`, `--query`).
 FR-07: Customer Data Loading — Customer records must be stored in and loaded from a local JSON file.
+FR-08: Help Command — The CLI must support a "help" command that shows command-line options and syntax.
 
 ## Non-Functional Requirements
 NFR-01: Zero External Runtime Dependencies — The application must run using only Python standard libraries (e.g., `argparse`, `json`, `csv`, `re`), with no external third-party production packages or external APIs.
